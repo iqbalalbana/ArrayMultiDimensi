@@ -2,8 +2,8 @@
   Array Multi Dimensi
 
 # SCREENSHOT
-![Screenshot1](https://s23.postimg.org/qwv6ltg3r/Screenshot_1.png)
-![Screenshot2](https://s23.postimg.org/vwx87ib47/Screenshot_2.png)
+![Screenshot1](https://s27.postimg.org/5jxmye1lr/Screenshot_3.png)
+![Screenshot2](https://s27.postimg.org/cbo218qlb/Screenshot_4.png)
 
 # IDENTITAS
 - Nama         : Muhamad Miftahul Iqbal Albana
